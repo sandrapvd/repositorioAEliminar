@@ -71,6 +71,11 @@ public class Principal extends JFrame implements ActionListener{
 
 	public static void main(String[] args) {
 		 new Principal();
+		 
+		 System.out.print("Esta es la primera línea para visualizar cambios en el repositorio");
+		 System.out.print("Esta es la segunda línea para visualizar cambios en el repositorio");
+		 
+		 
 		}//fin main
    
 }//fin class 
